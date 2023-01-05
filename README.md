@@ -33,6 +33,21 @@ limit and the lower class limit.
 
 D. Charts and Plots: This is one of the
 most important part of analysis to
+
+
+
+Result:
+Learnt EXCEL new terms and methods and
+many of the new functions. Getting proper
+insights from
+the problem statement
+solving real-world problems
+All the concepts have helped me get a
+a deep insight into the problem statement.
+This project has helped me to gain
+confidence in analyzing a problem and
+eventually to learn the practical use of the
+concepts taught in the training.
 visualize the data.
 
 E. Charts: Use different charts and
