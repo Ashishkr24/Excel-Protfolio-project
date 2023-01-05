@@ -34,6 +34,10 @@ limit and the lower class limit.
 D. Charts and Plots: This is one of the
 most important part of analysis to
 
+E. Charts: Use different charts and
+graphs to perform the task
+representing the data.
+
 
 
 Result:
@@ -50,6 +54,4 @@ eventually to learn the practical use of the
 concepts taught in the training.
 visualize the data.
 
-E. Charts: Use different charts and
-graphs to perform the task
-representing the data.
+
